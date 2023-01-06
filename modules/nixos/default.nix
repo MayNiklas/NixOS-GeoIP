@@ -1,0 +1,3 @@
+{
+  geoip = import ./geoip;
+}
