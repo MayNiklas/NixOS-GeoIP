@@ -32,7 +32,7 @@ Currently only filtering for Germany is supported; more is planned.
     enable = true;
     AccountID = 123456;
     DatabaseDirectory = "/var/lib/GeoIP";
-    LicenseKey = "/var/src/secrets/maxmind/maxmind_license_key"
+    LicenseKey = "/var/src/secrets/maxmind/maxmind_license_key";
   };
 }
 ```
